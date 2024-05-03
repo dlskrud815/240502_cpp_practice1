@@ -6,7 +6,7 @@
 #include <time.h>
 #include <cmath>
 
-#include "StudentInfoController.h"
+#include "StudentInfoController.h" //함수 헤더파일
 
 using namespace std;
 
