@@ -9,7 +9,8 @@
 #include "StudentInfoController.h" //함수 헤더파일
 
 using namespace std;
-using namespace studentInfoControl;
+using namespace studentInfoControl; 
+//사용할 게 너무 많아 studentInfoControl:: 대신 전체로 대체합니다,,
 
 int main()
 {
